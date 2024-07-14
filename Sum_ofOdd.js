@@ -8,4 +8,8 @@ function sumOfOddNumbers(arr)
                 sum += arr[i];
             }
         }
-   
+        return sum ;
+    }
+    const arr = [1,2,3,4,5,6,7,8,9];
+    const oddNum =  sumOfOddNumbers(arr);
+    console.log(`sum of odd numbers: `+oddNum); 
