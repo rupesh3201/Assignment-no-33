@@ -5,7 +5,8 @@ function sumOfOddNumbers(arr)
         {
             if(arr[i]%2!==0)
             {
-                sum += arr[i];
+                //console.log(i)// its prints  odd nubers
+                sum += arr[i]; // print sum of oddd  numners
             }
         }
         return sum ;
