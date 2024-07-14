@@ -7,3 +7,5 @@ for(const num of Student_marks) //for loop
         const largest_num = num;
     
     }
+}
+console.log(largest_num)
