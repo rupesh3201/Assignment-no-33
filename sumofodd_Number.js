@@ -5,4 +5,6 @@ function sumOffOddNumbers(arr) {
             sum += arr[i];
         }
     }
+    return sum;
+
  
