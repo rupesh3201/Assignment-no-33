@@ -8,4 +8,4 @@ for(const num of Student_marks) //for loop
     
     }
 }
-console.log(largest_num)
+console.log(largest_num) // printing largest element 99
