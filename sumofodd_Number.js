@@ -1,2 +1,3 @@
-function sumOfOddNumbers(arr) {
- 
+function sumOffOddNumbers(arr) {
+    let sum = 0;
+    
